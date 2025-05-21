@@ -1,3 +1,3 @@
 # Minimal_teleop
 
-Release after acceptance of the manuscirpt.
+Code would be released after acceptance of the manuscirpt.
